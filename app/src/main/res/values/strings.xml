@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ReadJSON</string>
+    <string name="it_json_obj">JSON Object</string>
+    <string name="it_json_arr">JSON Array</string>
+    <string name="it_json_language">JSON Language</string>
+    <string name="tv_language">Language</string>
+    <string name="it_home">Home</string>
+    <string name="it_js_arr_obj">JSON Array Obj</string>
+    <string name="it_volley">Volley</string>
+    <string name="it_simple_request">Simple Request</string>
+    <string name="bt_play_music">Play Music</string>
+    <string name="it_music_demo">Music Demo</string>
+    <string name="bt_play_vide">Play Video</string>
+    <string name="it_music_app">Music App</string>
+    <string name="tv_name_musician">alan walker</string>
+    <string name="it_media_online_sound">Media Online Sound</string>
+    <string name="it_sqlite_to_do_list">SQLite to do list</string>
+    <string name="it_update">Update</string>
+    <string name="it_delete">Delete</string>
+    <string name="it_add_sql">Add Item</string>
+    <string name="tv_note">NOTE</string>
+    <string name="tv_add_note">Please add note</string>
+    <string name="tv_hint_new_note"><font size="14">New Note</font></string>
+    <string name="bt_confirm">Confirm</string>
+    <string name="bt_cancel">Cancel</string>
+    <string name="tv_name_working">Name Working</string>
+    <string name="tv_edit_content_note">Edit Content Note</string>
+    <string name="tv_edit_content">Edit Content</string>
+</resources>

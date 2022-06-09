@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Rally</string>
+    <string name="trinh_van_manh">Trinh Van Manh</string>
+    <string name="data_result">Data result</string>
+    <string name="tv_bird">CHỌN HÌNH ĐÚNG PHÍA DƯỚI</string>
+    <string name="ic_reload">Reload</string>
+    <string name="et_password"><font size="14"> Type your password </font></string>
+    <string name="et_username"><font size="14">Type your username</font> </string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Confirm</string>
+    <string name="cb_save_pass">save password</string>
+    <string name="tv_form_login">Form Login</string>
+    <string name="tv_score">Score</string>
+    <string name="todo">TODO</string>
+    <string name="it_recyclerview">Recycle View</string>
+    <string name="it_gridlayout">Gridlayout</string>
+    <string name="it_rvVertical">Vertical</string>
+    <string name="it_intent">Intent</string>
+    <string name="it_action">ACTION</string>
+    <string name="it_data_resource">Data Result</string>
+    <string name="it_camera">Camera</string>
+    <string name="it_game_intent">Play Game</string>
+    <string name="it_shared_preference">Shared Preferences</string>
+    <string name="it_animation">Animation</string>
+    <string name="it_some_animation">Some Animation</string>
+    <string name="it_exit">Exit</string>
+    <string name="it_anim_intent">Animation In Intent</string>
+    <string name="bt_anim_in_intent">Anim In Intent</string>
+    <string name="bt_anim_in_intent2">Anim In Intent</string>
+    <string name="it_async_task">Asyn Task</string>
+    <string name="bt_click_start">Click to start</string>
+    <string name="bt_click_end">CLICK to end</string>
+    <string name="tv_async_working">working info</string>
+    <string name="it_download_image">Download image</string>
+    <string name="async_task_bs">Async Task bs</string>
+    <string name="bt_download">download</string>
+    <string name="it_read_content">Read Source Code</string>
+    <string name="it_read_news">Read News By RSS</string>
+    <string name="tv_news1">Tin Tức Khác</string>
+
+    <string-array name="list_name">
+        <item>bird!</item>
+        <item>bird2</item>
+        <item>bird3</item>
+        <item>bird4a</item>
+        <item>bird5a</item>
+        <item>bird6a</item>
+        <item>bird7a</item>
+        <item>bird8a</item>
+        <item>bird9a</item>
+        <item>bird10a</item>
+        <item>bird11a</item>
+        <item>bird12a</item>
+        <item>bird13a</item>
+        <item>bird14a</item>
+        <item>bird15</item>
+        <item>bird16</item>
+        <item>bird17</item>
+        <item>bird18</item>
+        <item>bird19</item>
+        <item>bird20</item>
+    </string-array>
+
+</resources>

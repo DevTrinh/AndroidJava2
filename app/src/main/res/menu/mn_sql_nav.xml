@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/it_update"
+        android:title="@string/it_update"
+        android:icon="@drawable/ic_update20"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/it_delete"
+        android:title="@string/it_delete"
+        android:icon="@drawable/ic_delete20"
+        app:showAsAction="always"/>
+
+</menu>

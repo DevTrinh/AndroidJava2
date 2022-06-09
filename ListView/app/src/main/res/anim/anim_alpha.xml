@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fillAfter="true">
+    <alpha
+        android:fromAlpha="0.1"
+        android:toAlpha="1.0"
+        android:duration= "1500"
+        android:repeatMode ="reverse"
+        android:repeatCount="infinite"/>
+<!--    thay đổi độ trong suốt của một view.
+ Android Animation được sử dụng để cung cấp
+ cho giao diện người dùng một giao diện phong phú-->
+</set>

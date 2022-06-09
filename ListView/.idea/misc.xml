@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidJava/ListView/app/src/main/res/layout/activity_angry_bird.xml" value="0.42916666666666664" />
+        <entry key="..\:/AndroidJava/ListView/app/src/main/res/layout/activity_anim_in_intent.xml" value="0.42916666666666664" />
+        <entry key="..\:/AndroidJava/ListView/app/src/main/res/layout/activity_animation_alpha.xml" value="0.42916666666666664" />
+        <entry key="..\:/AndroidJava/ListView/app/src/main/res/layout/activity_async_task.xml" value="0.33" />
+        <entry key="..\:/AndroidJava/ListView/app/src/main/res/layout/activity_data_result.xml" value="0.42916666666666664" />
+        <entry key="..\:/AndroidJava/ListView/app/src/main/res/layout/activity_download_image.xml" value="0.33" />
+        <entry key="..\:/AndroidJava/ListView/app/src/main/res/layout/activity_edit_data_result.xml" value="0.42916666666666664" />
+        <entry key="..\:/AndroidJava/ListView/app/src/main/res/layout/activity_image_bird.xml" value="0.42916666666666664" />
+        <entry key="..\:/AndroidJava/ListView/app/src/main/res/layout/activity_intent.xml" value="0.42916666666666664" />
+        <entry key="..\:/AndroidJava/ListView/app/src/main/res/layout/activity_intent_camera.xml" value="0.42916666666666664" />
+        <entry key="..\:/AndroidJava/ListView/app/src/main/res/layout/activity_list_book.xml" value="0.42916666666666664" />
+        <entry key="..\:/AndroidJava/ListView/app/src/main/res/layout/activity_list_user.xml" value="0.42916666666666664" />
+        <entry key="..\:/AndroidJava/ListView/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/AndroidJava/ListView/app/src/main/res/layout/activity_read_content_internet.xml" value="0.23020833333333332" />
+        <entry key="..\:/AndroidJava/ListView/app/src/main/res/layout/activity_read_new.xml" value="0.18" />
+        <entry key="..\:/AndroidJava/ListView/app/src/main/res/layout/activity_read_rss.xml" value="0.33" />
+        <entry key="..\:/AndroidJava/ListView/app/src/main/res/layout/activity_second_anim_in_intent.xml" value="0.42916666666666664" />
+        <entry key="..\:/AndroidJava/ListView/app/src/main/res/layout/activity_shared_preferences.xml" value="0.33" />
+        <entry key="..\:/AndroidJava/ListView/app/src/main/res/layout/item_book.xml" value="0.42916666666666664" />
+        <entry key="..\:/AndroidJava/ListView/app/src/main/res/layout/item_news.xml" value="0.33" />
+        <entry key="..\:/AndroidJava/ListView/app/src/main/res/layout/item_user.xml" value="0.33" />
+        <entry key="..\:/AndroidJava/ListView/app/src/main/res/menu/ic_home.xml" value="0.42916666666666664" />
+        <entry key="..\:/AndroidJava/ListView/app/src/main/res/menu/menu_book.xml" value="0.33" />
+        <entry key="..\:/AndroidJava/ListView/app/src/main/res/menu/mn_reload_bird.xml" value="0.42916666666666664" />
+        <entry key="..\:/ManhLapTrinh/ListView/app/src/main/res/drawable/bt_design_login.xml" value="0.1305" />
+        <entry key="..\:/ManhLapTrinh/ListView/app/src/main/res/layout/activity_angry_bird.xml" value="0.15925925925925927" />
+        <entry key="..\:/ManhLapTrinh/ListView/app/src/main/res/layout/activity_anim_in_intent.xml" value="0.209375" />
+        <entry key="..\:/ManhLapTrinh/ListView/app/src/main/res/layout/activity_animation_alpha.xml" value="0.25" />
+        <entry key="..\:/ManhLapTrinh/ListView/app/src/main/res/layout/activity_data_result.xml" value="0.22" />
+        <entry key="..\:/ManhLapTrinh/ListView/app/src/main/res/layout/activity_edit_data_result.xml" value="0.25" />
+        <entry key="..\:/ManhLapTrinh/ListView/app/src/main/res/layout/activity_image_bird.xml" value="0.22" />
+        <entry key="..\:/ManhLapTrinh/ListView/app/src/main/res/layout/activity_intent.xml" value="0.209375" />
+        <entry key="..\:/ManhLapTrinh/ListView/app/src/main/res/layout/activity_intent_camera.xml" value="0.209375" />
+        <entry key="..\:/ManhLapTrinh/ListView/app/src/main/res/layout/activity_list_book.xml" value="0.18888888888888888" />
+        <entry key="..\:/ManhLapTrinh/ListView/app/src/main/res/layout/activity_list_user.xml" value="0.20615384615384616" />
+        <entry key="..\:/ManhLapTrinh/ListView/app/src/main/res/layout/activity_main.xml" value="0.13796296296296295" />
+        <entry key="..\:/ManhLapTrinh/ListView/app/src/main/res/layout/activity_second_anim_in_intent.xml" value="0.1953125" />
+        <entry key="..\:/ManhLapTrinh/ListView/app/src/main/res/layout/activity_shared_preferences.xml" value="0.25" />
+        <entry key="..\:/ManhLapTrinh/ListView/app/src/main/res/layout/item_book.xml" value="0.20833333333333334" />
+        <entry key="..\:/ManhLapTrinh/ListView/app/src/main/res/layout/item_user.xml" value="0.11304347826086956" />
+        <entry key="..\:/ManhLapTrinh/ListView/app/src/main/res/layout/list_book.xml" value="0.18888888888888888" />
+        <entry key="..\:/ManhLapTrinh/ListView/app/src/main/res/menu/ic_home.xml" value="0.209375" />
+        <entry key="..\:/ManhLapTrinh/ListView/app/src/main/res/menu/menu_book.xml" value="0.1" />
+        <entry key="..\:/ManhLapTrinh/ListView/app/src/main/res/menu/mn_reload_bird.xml" value="0.17777777777777778" />
+        <entry key="..\:/ManhLapTrinh/ListView/app/src/main/res/menu/sub_menu.xml" value="0.20615384615384616" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

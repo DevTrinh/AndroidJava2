@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title=""
+        android:icon="@drawable/ic_menu24"
+        app:showAsAction="always">
+
+        <menu>
+            <item
+                android:id="@+id/it_view"
+                android:title="@string/it_recyclerview">
+                <menu>
+                    <item
+                        android:id="@+id/it_view_gridlayout"
+                        android:title="@string/it_gridlayout"/>
+                    <item
+                        android:id="@+id/it_view_linearlayout"
+                        android:title="@string/it_rvVertical"/>
+                </menu>
+            </item>
+
+            <item
+                android:id="@+id/it_intent"
+                android:title="@string/it_intent">
+                <menu>
+                    <item
+                        android:id="@+id/it_action"
+                        android:title="@string/it_action"/>
+
+                    <item
+                        android:id="@+id/it_data_result"
+                        android:title="@string/it_data_resource"/>
+
+                    <item
+                        android:id="@+id/it_camera"
+                        android:title="@string/it_camera"/>
+
+                </menu>
+            </item>
+
+            <item
+                android:id="@+id/it_game"
+                android:title="@string/it_game_intent"/>
+
+            <item
+                android:id="@+id/it_shared_preferences"
+                android:title="@string/it_shared_preference"/>
+
+            <item
+                android:id="@+id/it_animation"
+                android:title="@string/it_animation">
+                <menu>
+                    <item
+                        android:id="@+id/it_animation_alpha"
+                        android:title="@string/it_some_animation"/>
+                </menu>
+            </item>
+
+            <item
+                android:id="@+id/it_anim_intent"
+                android:title="@string/it_anim_intent"/>
+
+            <item
+            android:title="@string/it_async_task">
+                <menu>
+
+                    <item
+                        android:id="@+id/it_async_task"
+                        android:title="@string/async_task_bs"/>
+
+                    <item
+                        android:id="@+id/it_dl_img"
+                        android:title="@string/it_download_image"/>
+
+                    <item
+                        android:id="@+id/it_read_content"
+                        android:title="@string/it_read_content"/>
+
+                    <item
+                        android:id="@+id/it_read_news"
+                        android:title="@string/it_read_news"/>
+
+                </menu>
+            </item>
+
+            <item
+                android:id="@+id/it_exit"
+                android:title="@string/it_exit"/>
+
+        </menu>
+
+    </item>
+
+</menu>

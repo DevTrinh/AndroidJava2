@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        app:showAsAction="always"
+        android:id="@+id/it_nav_home"
+        android:title="HOME"
+        android:icon="@drawable/ic_menu24">
+            <menu>
+                <item
+                    android:id="@+id/it_json_object"
+                    android:title="@string/it_json_obj"/>
+
+                <item
+                    android:id="@+id/json_array"
+                    android:title="@string/it_json_arr"/>
+
+                <item
+                    android:id="@+id/it_json_language"
+                    android:title="@string/it_json_language"/>
+
+                <item
+                    android:id="@+id/it_json_array_obj"
+                    android:title="@string/it_js_arr_obj"/>
+
+                <item
+                    android:id="@+id/it_volley"
+                    android:title="@string/it_volley">
+                    <menu>
+                        <item
+                            android:id="@+id/it_volley_simple_request"
+                            android:title="@string/it_simple_request"/>
+                    </menu>
+                </item>
+
+                <item
+                    android:id="@+id/it_music_demo"
+                    android:title="@string/it_music_demo"/>
+
+                <item
+                    android:id="@+id/it_music_app"
+                    android:title="@string/it_music_app"/>
+
+                <item
+                    android:id="@+id/it_media_online_sound"
+                    android:title="@string/it_media_online_sound"/>
+                <item
+                android:title="SQLite">
+                    <menu>
+                        <item
+                            android:title="@string/it_sqlite_to_do_list"
+                            android:id="@+id/it_SQLite_to_do_list1"/>
+                    </menu>
+                </item>
+            </menu>
+    </item>
+
+
+
+</menu>

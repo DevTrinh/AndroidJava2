@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidJava/app/src/main/res/drawable/bg_gray_corner_10dp.xml" value="0.1645" />
+        <entry key="..\:/AndroidJava/app/src/main/res/drawable/bg_white_corner_10_border_gray.xml" value="0.22" />
+        <entry key="..\:/AndroidJava/app/src/main/res/drawable/bg_white_corner_16dp.xml" value="0.1645" />
+        <entry key="..\:/AndroidJava/app/src/main/res/drawable/bg_white_corner_16dp_topleft_topright.xml" value="0.1645" />
+        <entry key="..\:/AndroidJava/app/src/main/res/drawable/bg_yellow_corner_10.xml" value="0.1645" />
+        <entry key="..\:/AndroidJava/app/src/main/res/drawable/custom_cb_music.xml" value="0.22" />
+        <entry key="..\:/AndroidJava/app/src/main/res/drawable/custom_checkbox.xml" value="0.1565" />
+        <entry key="..\:/AndroidJava/app/src/main/res/layout-v31/item_work_strean.xml" value="0.42916666666666664" />
+        <entry key="..\:/AndroidJava/app/src/main/res/layout/activity_app_music.xml" value="0.25" />
+        <entry key="..\:/AndroidJava/app/src/main/res/layout/activity_json_array.xml" value="0.42916666666666664" />
+        <entry key="..\:/AndroidJava/app/src/main/res/layout/activity_json_array_object.xml" value="0.33" />
+        <entry key="..\:/AndroidJava/app/src/main/res/layout/activity_json_language.xml" value="0.33" />
+        <entry key="..\:/AndroidJava/app/src/main/res/layout/activity_json_object_request.xml" value="0.42916666666666664" />
+        <entry key="..\:/AndroidJava/app/src/main/res/layout/activity_jsonobject.xml" value="0.42916666666666664" />
+        <entry key="..\:/AndroidJava/app/src/main/res/layout/activity_listen_demo.xml" value="0.25" />
+        <entry key="..\:/AndroidJava/app/src/main/res/layout/activity_listen_music_demo.xml" value="0.42916666666666664" />
+        <entry key="..\:/AndroidJava/app/src/main/res/layout/activity_main.xml" value="0.21614583333333334" />
+        <entry key="..\:/AndroidJava/app/src/main/res/layout/activity_media_online_sound.xml" value="0.33" />
+        <entry key="..\:/AndroidJava/app/src/main/res/layout/activity_sqlite_to_do_list.xml" value="0.25" />
+        <entry key="..\:/AndroidJava/app/src/main/res/layout/activity_volley_simple_request.xml" value="0.33" />
+        <entry key="..\:/AndroidJava/app/src/main/res/layout/item_work_strean.xml" value="0.33" />
+        <entry key="..\:/AndroidJava/app/src/main/res/layout/layout_dialog_add_item.xml" value="0.3158482142857143" />
+        <entry key="..\:/AndroidJava/app/src/main/res/layout/layout_dialog_update_item.xml" value="0.428125" />
+        <entry key="..\:/AndroidJava/app/src/main/res/layout/work_stream.xml" value="0.33" />
+        <entry key="..\:/AndroidJava/app/src/main/res/menu/home.xml" value="0.23020833333333332" />
+        <entry key="..\:/AndroidJava/app/src/main/res/menu/mn_add_item_sql.xml" value="0.33" />
+        <entry key="..\:/AndroidJava/app/src/main/res/menu/mn_home.xml" value="0.42916666666666664" />
+        <entry key="..\:/AndroidJava/app/src/main/res/menu/mn_navigation.xml" value="0.25" />
+        <entry key="..\:/AndroidJava/app/src/main/res/menu/mn_sql_nav.xml" value="0.42916666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
